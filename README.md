@@ -6,4 +6,4 @@ Catto es un juego de Android que desarrollé hace mucho tiempo como mi primer pr
 
 Además, durante el desarrollo de Catto, aprendí a usar Git para el control de versiones y colaboración en equipo, lo que resultó ser una herramienta muy valiosa en mi trayectoria como programador.
 
-Aunque he adquirido mucha experiencia desde entonces, siempre miraré a Catto con cariño y lo consideraré como el comienzo de mi carrera en el mundo de la programación de juegos.
+### Aunque he adquirido mucha experiencia desde entonces, siempre miraré a Catto con cariño y lo consideraré como el comienzo de mi carrera en el mundo de la programación de juegos.
